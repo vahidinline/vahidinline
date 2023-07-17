@@ -1,78 +1,37 @@
-# GitHub Codespaces ♥️ React
+# Hi there, I'm Vahid Afshari! 👋
 
-Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
+I'm a MERN (MongoDB, Express, React, Node.js) developer with a passion for fitness and wellness. I enjoy building web and mobile applications that promote a healthy lifestyle and improve overall well-being.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+## Technologies and Tools
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+- **Programming Languages:** JavaScript
+- **Frameworks:** React, React Natvie,  Express
+- **Databases:** MongoDB
+- **Certifications:** Coursera Front End Certificate
 
-This project was bootstrapped for you with [Create React App](https://github.com/facebook/create-react-app).
+## Projects and Achievements
 
-## Available Scripts
+- **Fitlinez Mobile Application:** Developed a mobile application aimed at tracking and improving fitness goals. 
+- **Mafia Mobile Application:** Built a mobile application that facilitates the popular game "Mafia" with online multiplayer capabilities. 
+- **Fitlinez Web Application:** Created a web application that allows users to access fitness plans, track their progress, and interact with a community of fitness enthusiasts. 
+- **Menka Web Application:** Developed a web application for a wellness brand to showcase their products and services and allow users to make bookings.
+- **ISO:** Developed backend for NGO called ISO to manage users,Stripe payments, emails, and so on
 
-In the project directory, you can run:
+## Areas of Interest
 
-### `npm start`
+I have a keen interest in the following areas:
 
-We've already run this for you in the `Codespaces: server` terminal window below. If you need to stop the server for any reason you can just run `npm start` again to bring it back online.
+- Fitness and wellness
+- Web and mobile application development
+- Learning new human languages
+- Starting new business ventures
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) in the built-in Simple Browser (`Cmd/Ctrl + Shift + P > Simple Browser: Show`) to view your running application.
+## Let's Connect
 
-The page will reload automatically when you make changes.\
-You may also see any lint errors in the console.
+Feel free to reach out to me if you have any questions, or project proposals, or just want to chat about fitness or programming!
 
-### `npm test`
+- **Email:** [vahidinline@gmail.com](mailto:vahidinline@gmail.com)
+- **LinkedIn:** [linkedin.com/in/vahidafshari]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/vahidafshari/))
+- **Personal Website:** [vahidafshari.com](https://vahidafshari.com)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Looking forward to connecting with you!
