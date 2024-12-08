@@ -38,6 +38,19 @@ I'm a passionate full-stack developer with expertise in MERN (MongoDB, Express, 
 - Utilizes machine learning to provide predictive health analytics
 - Technologies: React Native, TypeScript, TensorFlow, Azure AI Services, Node.js
 
+  ### LearnHub - Online Learning Platform
+  LearnHub is a modern online learning platform built with Next.js 13, featuring a robust course management system, interactive learning experiences, and comprehensive progress tracking.
+
+### Chat APP with OpenAI model
+A modern Next.js application that enables voice-based conversations using Azure Cognitive Services and GPT. This application provides real-time speech-to-text conversion, natural language processing, and text-to-speech responses.
+
+
+### Telegram Bot server 
+
+A Node.js server application that integrates with Telegram Bot API to handle user interactions and store activities in MongoDB.
+
+
+
 ### 🏋️ Fitlinez Mobile Application
 - Developed a comprehensive mobile application for tracking and improving fitness goals
 - Migrated to TypeScript for improved developer experience and code reliability
