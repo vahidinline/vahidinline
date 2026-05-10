@@ -1,8 +1,8 @@
-# Hi there, I'm Vahid Afshari! 👋
+
 
 I'm a passionate full-stack developer with expertise in MERN (MongoDB, Express, React, Node.js) and TypeScript technologies, dedicated to creating innovative web and mobile applications that leverage cutting-edge machine learning and artificial intelligence solutions.
 
-## 🚀 Technologies and Tools
+## Technologies and Tools
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,9 +25,9 @@ I'm a passionate full-stack developer with expertise in MERN (MongoDB, Express, 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 💼 Featured Projects
+## Featured Projects
 
-### 🏥 SmartyCare AI - Post-Op Recovery Assistant
+###  SmartyCare AI - Post-Op Recovery Assistant
 - Developed an innovative AI-powered healthcare solution for post-operative recovery
 - Implemented using TypeScript for enhanced type safety and code quality
 - Features include:
@@ -48,21 +48,21 @@ A modern Next.js application that enables voice-based conversations using Azure 
 ### Telegram Bot server 
 A Node.js server application that integrates with Telegram Bot API to handle user interactions and store activities in MongoDB.
 
-### 🏋️ Fitlinez Mobile Application
+### Fitlinez Mobile Application
 - Developed a comprehensive mobile application for tracking and improving fitness goals
 - Migrated to TypeScript for improved developer experience and code reliability
 - Implemented user progress tracking and community interaction features
 - Integrated AI-powered personalized fitness recommendations
 - Technologies: React Native, TypeScript, MongoDB, Node.js, TensorFlow
 
-### 🌐 Fitlinez Web Application
+### Fitlinez Web Application
 - Built a web platform connecting fitness enthusiasts
 - Developed with TypeScript to ensure type-safe frontend and backend code
 - Features include fitness plan access, progress tracking, and community engagement
 - Implemented machine learning algorithms for personalized workout suggestions
 - Technologies: React, TypeScript, Express, MongoDB, Vertex AI
 
-### 🤖 AI-Powered Solutions
+### AI-Powered Solutions
 - Developed AI agents and intelligent systems using advanced machine-learning techniques
 - Expertise in:
   - Type-safe AI model development using TypeScript
@@ -70,20 +70,20 @@ A Node.js server application that integrates with Telegram Bot API to handle use
   - Deploying AI services on cloud platforms (Vertex AI, Azure AI Services)
 - Implemented natural language processing and predictive analytics solutions
 
-## 🌱 Areas of Interest
-- 🏥 Healthcare Technology and AI
-- 💪 Fitness and Wellness Technology
-- 🤖 Artificial Intelligence and Machine Learning
-- 🚀 Innovative Web and Mobile Development with TypeScript
-- 🌐 AI Model Training and Fine-tuning
-- 💡 AI-Driven Product Development
+## Areas of Interest
+-  Healthcare Technology and AI
+-  Fitness and Wellness Technology
+-  Artificial Intelligence and Machine Learning
+-  Innovative Web and Mobile Development with TypeScript
+-  AI Model Training and Fine-tuning
+-  AI-Driven Product Development
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm always excited to collaborate on innovative AI and technology projects that make a meaningful impact on people's lives.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@vahidafshari.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vahidinline@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahidafshari/)
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vahidafshari.com)
 
-Looking forward to connecting with you! 🌟
+
+Looking forward to connecting with you! 
